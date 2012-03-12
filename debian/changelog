@@ -1,0 +1,5 @@
+vdr-plugin-noepg (0.0.1-0yavdr0~precise) precise; urgency=medium
+
+  * new upstream git snapshot
+
+ -- Lars Hanisch <dvb@flensrocker.de> Thu, 28 Dec 2011 23:06:50 +0200
