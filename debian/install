@@ -1,2 +1,3 @@
 libvdr-noepg.so.*    usr/lib/vdr/plugins/
+contrib/*            usr/share/vdr-plugin-noepg/
 
