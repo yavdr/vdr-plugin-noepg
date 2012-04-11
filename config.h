@@ -15,10 +15,11 @@ public:
   // either mode or id is set, never both
   eNoEpgMode mode;
   tChannelID id;
+  cString *comment;
 
   cNoepgChannelID(void);
-  cNoepgChannelID(eNoEpgMode Mode, tChannelID Id);
-  virtual ~cNoepgChannelID(void) {}
+  cNoepgChannelID(eNoEpgMode Mode, tChannelID Id, cString *Comment);
+  virtual ~cNoepgChannelID(void);
 
   bool Parse(const char *s);
   bool Save(FILE *f);
