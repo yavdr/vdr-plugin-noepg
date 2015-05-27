@@ -1,23 +1,72 @@
-vdr-plugin-noepg (0.0.4-1yavdr0~precise) precise; urgency=medium
+vdr-plugin-noepg (20140202170642unstable-1yavdr1~trusty) trusty; urgency=medium
 
-  * add vdr-abi dependency
+  * automatic rebuild
 
- -- Lars Hanisch <dvb@flensrocker.de>  Sun, 02 Feb 2014 17:05:56 +0100
+ -- Alexander Grothe <seahawk1986@gmx.de>  Mon, 25 May 2015 17:41:44 +0200
 
-vdr-plugin-noepg (0.0.4-0yavdr0~precise) precise; urgency=medium
+vdr-plugin-noepg (20140202170642unstable-1yavdr0~trusty) trusty; urgency=medium
 
-  * new upstream release
+  * rework debian dir 
 
- -- Lars Hanisch <dvb@flensrocker.de>  Mon, 11 Mar 2013 13:09:03 +0100
+ -- Alexander Grothe <seahawk1986@gmx.de>  Sat, 25 Apr 2015 17:26:30 +0200
 
-vdr-plugin-noepg (0.0.3-0yavdr0~precise) precise; urgency=medium
+vdr-plugin-noepg (20140202170642unstable-0yavdr10~trusty) trusty; urgency=medium
 
-  * rebuild
+  * automatic rebuild
 
- -- Lars Hanisch <dvb@flensrocker.de>  Wed, 21 Nov 2012 20:56:25 +0100
+ -- yavdr package builder <release@yavdr.org>  Fri, 03 Apr 2015 15:18:52 +0200
 
-vdr-plugin-noepg (0.0.1-0yavdr0~precise) precise; urgency=medium
+vdr-plugin-noepg (20140202170642unstable-0yavdr9~trusty) trusty; urgency=medium
 
-  * new upstream git snapshot
+  * automatic rebuild
 
- -- Lars Hanisch <dvb@flensrocker.de> Thu, 28 Dec 2011 23:06:50 +0200
+ -- Lars Hanisch <dvb@flensrocker.de>  Fri, 20 Feb 2015 11:18:07 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr8~trusty) trusty; urgency=medium
+
+  * automatic rebuild
+
+ -- Lars Hanisch <dvb@flensrocker.de>  Thu, 12 Feb 2015 00:37:47 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr7~trusty) trusty; urgency=medium
+
+  * automatic rebuild
+
+ -- Lars Hanisch <dvb@flensrocker.de>  Sun, 08 Feb 2015 16:22:30 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr6~trusty) trusty; urgency=medium
+
+  * automatic rebuild
+
+ -- Lars Hanisch <dvb@flensrocker.de>  Sun, 01 Feb 2015 16:20:32 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr5~trusty) trusty; urgency=medium
+
+  * automatic rebuild
+
+ -- Lars Hanisch <dvb@flensrocker.de>  Sun, 18 Jan 2015 16:38:16 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr4~trusty) trusty; urgency=medium
+
+  * rebuild for trusty thar
+
+ -- Alexander Grothe <seahawk1986@hotmail.com>  Sat, 05 Apr 2014 14:33:29 +0200
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr3~precise) precise; urgency=medium
+
+  * automatic rebuild
+
+ -- yavdr package builder <release@yavdr.org>  Wed, 02 Apr 2014 22:09:17 +0200
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr1~precise) precise; urgency=medium
+
+  * automatic rebuild
+
+ -- yavdr package builder <release@yavdr.org>  Sun, 23 Mar 2014 16:03:19 +0100
+
+vdr-plugin-noepg (20140202170642unstable-0yavdr0~precise) precise; urgency=medium
+
+  * Autobuild - d49d8c36c8427af127fb7fadcb1f2bf441764a99
+    git://github.com/yavdr/vdr-plugin-noepg.git
+
+ -- yaVDR Release-Team <release@yavdr.org>  Sun, 02 Feb 2014 17:06:43 +0100
